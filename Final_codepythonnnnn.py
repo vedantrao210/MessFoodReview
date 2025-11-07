@@ -836,3 +836,4 @@ def control_loop():
 # Run the control loop when executed directly
 if __name__ == "__main__":
     control_loop()
+print("Hello")
